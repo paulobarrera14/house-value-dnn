@@ -8,7 +8,7 @@ This project develops a Deep Neural Network (DNN) model to predict housing price
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python 3.9
 - pip package manager
 
 ### Installation
